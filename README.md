@@ -21,7 +21,7 @@ Installation
 
 ARCGIS PRO
 
-[Download the tool and csv folder, put csv folder in your C drive.]
+[Download the tool and unzip it.]
 
 [Go to the insert tab of your ArcGIS PRO project]
 
