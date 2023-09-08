@@ -1,5 +1,5 @@
 # outlier-removal
-
+If you need to clean your dataset by removing outliers, this tool helps you
 Project Title
 
 [Outlier Removal]
